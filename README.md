@@ -74,10 +74,11 @@ LinkedIn: [https://www.linkedin.com/in/bharadwaj-kasturi-451a031a9](https://www.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details
+This project is licensed under the MIT License. See the LICENSE file for details.
 
+```
 
 ---
 
-If you want, I can generate the exact markdown file you can download and upload to GitHub — just ask!
+If you want, I can prepare the `LICENSE` file content for you too!
 ```
