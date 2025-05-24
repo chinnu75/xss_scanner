@@ -1,6 +1,4 @@
-Sure! Here’s a **complete README.md** template you can copy-paste into your GitHub repo. It includes everything step-by-step, from project description, installation, usage, to author info — all formatted nicely for GitHub.
 
----
 
 ````markdown
 # XSS Scanner GUI
