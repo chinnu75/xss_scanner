@@ -76,18 +76,8 @@ LinkedIn: [https://www.linkedin.com/in/bharadwaj-kasturi-451a031a9](https://www.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details
 
-```
-
----
-
-### How to upload this to GitHub:
-
-1. Create a new file named `README.md` in your project root folder.
-2. Paste the entire content above into that file.
-3. Save it.
-4. Commit and push the file to your GitHub repository.
 
 ---
 
